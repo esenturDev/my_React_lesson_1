@@ -1,0 +1,15 @@
+.p {
+  color: rgb(236, 98, 52);
+  font-size: 25px;
+  font-weight: 600;
+  position: relative;
+  top: 30px;
+}
+
+.text {
+  color: #ccc;
+  font-size: 25px;
+  font-weight: 600;
+  position: relative;
+  top: 30px;
+}

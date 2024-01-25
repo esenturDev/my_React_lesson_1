@@ -1,0 +1,30 @@
+.headerContainer {
+  background-color: black;
+  position: relative;
+  bottom: 50px;
+}
+
+.headerContainer .content {
+  margin-top: 50px;
+  margin-left: 65px;
+  margin-right: 65px;
+}
+
+.headerContainer .content ul{
+  display: flex;
+  justify-content: space-between;
+}
+
+.headerContainer .content ul h1 {
+  color: rgb(236, 98, 52);
+  font-size: 55px;
+  font-weight: 800;
+}
+
+
+
+.headerContainer .content ul img {
+  width: 50px;
+  height: 50px;
+}
+

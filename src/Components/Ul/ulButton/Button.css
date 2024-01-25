@@ -1,0 +1,38 @@
+.chocolate {
+  width: 225px;
+  height: 40px;
+  border-radius: 14px;
+  background-color: rgb(236, 98, 52);
+  color: black;
+  font-size: 15px;
+  font-weight: 350;
+  position: relative;
+  top: 55px;
+}
+
+.black {
+  width: 120px;
+  height: 38px;
+  border-radius: 13px;
+  background-color: #3c3a3a;
+  color: #ccc;
+  position: relative;
+  top: 55px;
+}
+
+.button11 {
+  background-color: aliceblue;
+  border: 3px solid rgb(197, 18, 197);
+  width: 125px;
+  height: 38px;
+  border-radius: 13px;
+  font-size: 17px;
+}
+
+.button11:hover {
+  transition: 1s;
+  background-color: rgb(197, 18, 197);
+  color: #fff;
+  font-weight: 500;
+  border: none;
+}

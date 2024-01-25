@@ -1,0 +1,38 @@
+.mainContainer {
+  background-color: #3c3a3a;
+  position: relative;
+  bottom: 72px;
+  height: 155vh;
+}
+
+.mainContainer .container {
+  padding-top: 35px;
+  padding-left: 75px;
+  padding-right: 75px;
+} 
+
+.mainContainer .container .inputs {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.mainContainer .container .content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mainContainer .container .content h1 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 550;
+}
+
+.mainContainer .container .content a {
+  text-decoration: none;
+  color: rgb(246, 190, 37);
+  font-size: 25px;
+  font-weight: 600;
+  position: relative;
+  top: 25px;
+}
